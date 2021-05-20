@@ -1,7 +1,8 @@
 # Fleximic
-### Using a raspberry pi and two servo motors to create a product similar to the DynaMount Echo PT
+This project replaces the DynaMount Echo PT for me becuase I don't have $3,000. 
+This is intended for indoor use for my project.
 
-This project uses a 
+This project uses a:
 RPI 3 B V2
 DORHEA Raspberry Pi Mini Camera 
 (2) Nema 17 Stepper Motors
